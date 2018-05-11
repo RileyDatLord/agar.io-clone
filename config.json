@@ -16,8 +16,8 @@
         },
 		"splitMass": 180
 	},
-    "gameWidth": 20000,
-    "gameHeight": 20000,
+    "gameWidth": 5000,
+    "gameHeight": 5000,
     "adminPass": "somepass",
     "gameMass": 20000,
     "maxFood": 1000,
